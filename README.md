@@ -1,14 +1,7 @@
 # Ml_Model_LinearRegression
 Built an web application to predict suitable product from a company(consists of 3 products) using linear Regression with help of flask
 
-Output👇
-![lin_output](https://user-images.githubusercontent.com/98878126/202512996-504977f1-24af-47fc-98e5-bb6dda6c724f.jpg)
+After submission(inputting values) result will be👇
 
 
-
-
-
-
-
-After submission Result will be👇
-![lin2_output](https://user-images.githubusercontent.com/98878126/202513116-17dfcbb3-3767-490a-b9b8-ea73597be5f3.jpg)
+![linear_output](https://user-images.githubusercontent.com/98878126/202515171-232055ad-ff48-43ba-966d-43bce1167a0c.jpg)
